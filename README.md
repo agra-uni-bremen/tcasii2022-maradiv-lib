@@ -33,9 +33,11 @@ The Port Mapping is as follows:
 
 Example :
 
-module top (a1,a2,......, a40)
-endmodule 
+	module top (a1,a2,......, a40)
+	endmodule 
+
 The ports need to be read as 
+	
 	Dividend = {a1,a2,...,a16}
 	Divisor = {a17,a18,...,a24}
 	Quotient = {a25,a26,...,a32}

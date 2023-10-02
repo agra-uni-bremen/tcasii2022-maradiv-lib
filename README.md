@@ -42,3 +42,20 @@ The ports need to be read as
 	Divisor = {a17,a18,...,a24}
 	Quotient = {a25,a26,...,a32}
 	Remainder = {a33,a34,...,a40}
+
+
+## Citation
+
+To cite this paper use
+```bibtex
+@ARTICLE{10040222,
+  author={Jha, Chandan Kumar and Ahmadi-Pour, Sallar and Drechsler, Rolf},
+  journal={IEEE Transactions on Circuits and Systems II: Express Briefs}, 
+  title={MARADIV: Library of MAGIC-Based Approximate Restoring Array Divider Benchmark Circuits for In-Memory Computing Using Memristors}, 
+  year={2023},
+  volume={70},
+  number={7},
+  pages={2635-2639},
+  doi={10.1109/TCSII.2023.3242976}}
+``` 
+
